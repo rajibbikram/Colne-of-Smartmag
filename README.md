@@ -14,7 +14,6 @@ This is a frontend clone of the popular news/magazine template **Smartmag**. The
 
 - HTML5
 - CSS3
-- Bootstrap 5
 - JavaScript (optional/custom additions)
 
 ## 📸 Screenshots
